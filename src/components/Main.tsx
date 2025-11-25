@@ -31,11 +31,11 @@ function Main() {
           <h1>Durga Pavan Kumar Pailla</h1>
           <p>Software Developer</p>
           <p className="summary">
-            Software Developer with over 2.5 years of experience in building
-            scalable web applications and backend services using Java, Spring
-            Boot, and React. Proficient in designing REST APIs, implementing
-            OAuth2/JWT authentication, and deploying containerized apps to AWS
-            using Docker and Kubernetes.
+            With over 3+ years of experience in building scalable web
+            applications and backend services using Java, Spring Boot, and
+            React. Proficient in designing REST APIs, implementing OAuth2/JWT
+            authentication, and deploying containerized apps to AWS using Docker
+            and Kubernetes.
           </p>
 
           <div className="mobile_social_icons">
