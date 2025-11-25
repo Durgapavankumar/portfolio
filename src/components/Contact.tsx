@@ -54,7 +54,7 @@ function Contact() {
             <p>
               <FontAwesomeIcon icon={faFilePdf} /> <strong>Resume:</strong>{" "}
               <a
-                href="https://drive.google.com/file/d/1CoUnFhPJ5Dmsa8Di7hlloapiON5_WzWH/view?usp=sharing" //
+                href="https://drive.google.com/file/d/1soVPmkMdh2CVCi_iw42QOKCnzIS4_YsN/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
