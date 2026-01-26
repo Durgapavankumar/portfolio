@@ -2,7 +2,7 @@ import React from "react";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import "../assets/styles/Main.scss";
-import avatar from "../assets/images/avatar1.jpg";
+import avatar from "../assets/images/profile_photo.jpg";
 
 function Main() {
   return (
@@ -29,13 +29,13 @@ function Main() {
             </a>
           </div>
           <h1>Durga Pavan Kumar Pailla</h1>
-          <p>Software Developer</p>
+          <p>Software Engineer</p>
           <p className="summary">
-            With over 3+ years of experience in building scalable web
+            Software Engineer with 3+ years of experience building scalable web
             applications and backend services using Java, Spring Boot, and
-            React. Proficient in designing REST APIs, implementing OAuth2/JWT
-            authentication, and deploying containerized apps to AWS using Docker
-            and Kubernetes.
+            React. Proficient in cloud-native architectures on AWS, and
+            passionate about leveraging Python and AI technologies to drive
+            innovation.
           </p>
 
           <div className="mobile_social_icons">

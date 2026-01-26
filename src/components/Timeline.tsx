@@ -57,7 +57,7 @@ function Timeline() {
           icon={<FontAwesomeIcon icon={faBriefcase} />}
         >
           <h3 className="vertical-timeline-element-title">
-            Software Developer
+            Software Engineer
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Travelers – Houston, USA

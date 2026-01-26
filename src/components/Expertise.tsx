@@ -67,7 +67,7 @@ function Expertise() {
             <h3>Full-Stack Development</h3>
             <p>
               I specialize in building scalable, secure, and production-ready
-              web applications using Java, Spring Boot, and React. My project
+              web applications using Java, Python, Spring Boot, and React. My project
               work spans REST API development, JWT/OAuth2 authentication, Stripe
               integrations, and responsive UI design.
             </p>
