@@ -31,11 +31,15 @@ function Main() {
           <h1>Durga Pavan Kumar Pailla</h1>
           <p>Software Engineer</p>
           <p className="summary">
-            Software Engineer with 3+ years of experience building scalable web
-            applications and backend services using Java, Spring Boot, and
-            React. Proficient in cloud-native architectures on AWS, and
-            passionate about leveraging Python and AI technologies to drive
-            innovation.
+            Software Engineer with 3+ years of professional experience building
+            and supporting backend and full-stack applications in enterprise
+            environments. Strong background in Java and Spring Boot for
+            designing secure, scalable REST APIs, with hands-on experience
+            deploying and operating services on AWS. Comfortable working across
+            the stack with React and modern frontend tools, and experienced in
+            integrating databases, caching, messaging systems, and automated
+            testing into production-ready systems. Proven ability to collaborate
+            in Agile teams and deliver reliable features end-to-end.
           </p>
 
           <div className="mobile_social_icons">
