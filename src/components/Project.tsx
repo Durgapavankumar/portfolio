@@ -10,14 +10,14 @@ function Project() {
       <div className="projects-grid">
         <div className="project">
           <a
-            href="https://github.com/Durgapavankumar"
+            href="https://github.com/Durgapavankumar/Sentinel"
             target="_blank"
             rel="noreferrer"
           >
             <img src={sentinelImg} className="zoom" alt="Sentinel" width="100%" />
           </a>
           <a
-            href="https://github.com/Durgapavankumar"
+            href="https://github.com/Durgapavankumar/Sentinel"
             target="_blank"
             rel="noreferrer"
           >
@@ -33,7 +33,7 @@ function Project() {
 
         <div className="project">
           <a
-            href="https://github.com/Durgapavankumar"
+            href="https://github.com/Durgapavankumar/Resilient-API-Gateway"
             target="_blank"
             rel="noreferrer"
           >
@@ -45,7 +45,7 @@ function Project() {
             />
           </a>
           <a
-            href="https://github.com/Durgapavankumar"
+            href="https://github.com/Durgapavankumar/Resilient-API-Gateway"
             target="_blank"
             rel="noreferrer"
           >
@@ -53,9 +53,9 @@ function Project() {
           </a>
           <p>
             Developed a custom API gateway with distributed rate limiting using
-            Redis to protect backend services from traffic spikes. Integrated
-            circuit breaker patterns with Resilience4j and exposed metrics via
-            Prometheus to prevent cascading failures.
+            Redis to protect backend services from traffic spikes and downstream
+            failures. Integrated circuit breaker patterns with Resilience4j and
+            exposed application metrics via Prometheus for improved observability.
           </p>
         </div>
       </div>
