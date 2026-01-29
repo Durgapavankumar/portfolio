@@ -67,19 +67,31 @@ function Project() {
         {/* Restored Old Projects */}
         <div className="project">
           <a
-            href="https://github.com/durgapavankumar/TicketNest"
+            href="https://durgapavankumar.github.io/TicketNest"
             target="_blank"
             rel="noreferrer"
           >
             <img src={mock01} className="zoom" alt="TicketNest" width="100%" />
           </a>
-          <a
-            href="https://github.com/durgapavankumar/TicketNest"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <h2>TicketNest</h2>
-          </a>
+          <div className="flex-links">
+             <a
+                href="https://github.com/Durgapavankumar/TicketNest"
+                target="_blank"
+                rel="noreferrer"
+                className="project-link"
+              >
+                <h2>TicketNest</h2>
+              </a>
+              <span className="separator">|</span>
+              <a
+                href="https://durgapavankumar.github.io/TicketNest"
+                target="_blank"
+                rel="noreferrer"
+                className="live-link"
+              >
+                Live Demo
+              </a>
+          </div>
           <p>
             A full-stack movie booking platform for 10+ locations and 500+
             weekly bookings. Built with React, Vue.js, Node.js, and MongoDB.
@@ -90,7 +102,7 @@ function Project() {
 
         <div className="project">
           <a
-            href="https://github.com/durgapavankumar/SmartCarParking"
+            href="https://durgapavankumar.github.io/SmartCarParking"
             target="_blank"
             rel="noreferrer"
           >
@@ -101,13 +113,25 @@ function Project() {
               width="100%"
             />
           </a>
-          <a
-            href="https://github.com/durgapavankumar/SmartCarParking"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <h2>Smart Car Parking System</h2>
-          </a>
+           <div className="flex-links">
+             <a
+                href="https://github.com/Durgapavankumar/SmartCarParking"
+                target="_blank"
+                rel="noreferrer"
+                className="project-link"
+              >
+                <h2>Smart Car Parking System</h2>
+              </a>
+              <span className="separator">|</span>
+              <a
+                href="https://durgapavankumar.github.io/SmartCarParking"
+                target="_blank"
+                rel="noreferrer"
+                className="live-link"
+              >
+                Live Demo
+              </a>
+          </div>
           <p>
             Built a real-time parking slot reservation system using Spring Boot,
             React, and PostgreSQL. Integrated Stripe API for secure booking
